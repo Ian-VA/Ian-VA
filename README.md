@@ -1,6 +1,6 @@
 # Hello!
 
-I'm an undergraduate at Caltech studying computer science. I am currently a researcher at the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) (working on power optimization and health cost reduction problems) and JPL's [Machine Learning & Instrument Autonomy](https://ml.jpl.nasa.gov/autonomies.html) group (working on machine learning research and model implementation).
+I'm an undergraduate at Caltech studying computer science. I am formerly a researcher at the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) (power optimization and health cost reduction problems) and JPL's [Machine Learning & Instrument Autonomy](https://ml.jpl.nasa.gov/autonomies.html) group (machine learning research and model implementation).
 
 <p align="center">
   <img width="200" height="100" alt="imgbin-jet-propulsion-laboratory-nasa-insignia-curiosity-nasa-nRGh0qGy23tezb2GN5XdadkPs-removebg-preview" src="https://github.com/user-attachments/assets/0981877c-348f-498c-92dc-4a0352e5159c" />
